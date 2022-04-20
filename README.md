@@ -1,2 +1,2 @@
 # Projects
-This is a repository to store my project during my studies.
+This is a repository to store projects during my studies.
