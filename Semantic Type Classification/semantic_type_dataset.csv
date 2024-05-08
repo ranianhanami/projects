@@ -1,0 +1,971 @@
+Document ID,Question,Label
+Doc-100,apakah saya sudah diperbolehkan hamil lagi,Information
+Doc-100,berapa kali maksimal boleh melahirkan secara caesar,Information
+Doc-101,akan tetapi kenapa ya timbul urat urat menyembul di seputar tangan dan betis,Cause
+Doc-101,apa saya harus mengurangi frekuensi olahraga saya selama ini,Management
+Doc-104,mohon informasinya dokter apakah yang terjadi,Diagnosis
+Doc-104,apakah saya harus memeriksakan hidung saya sinus telinga atau kepala,PersonORG
+Doc-105,apakah itu ciri ciri kanker otak,Manifestation
+Doc-106,apakah efek samping dan apa yang akan terjadi dengan anak tersebut,Complication
+Doc-106,apakah anak tersebut bisa lekas sembuh dan normal kembali,Prognosis
+Doc-107,itu kenapa ya dok,Cause
+Doc-108,apakah gejala hamil atau kah tumor,Diagnosis
+Doc-109,kalau umur segitu apa gejala awal sebenarnya dok,Manifestation
+Doc-109,apa benar y dok itu adalah gejala infeksi lambung,Manifestation
+Doc-111,sebetulnya saya sakit apa ya dok,Diagnosis
+Doc-111,apa obatnya,Management
+Doc-111,makanan apa yang harus dimakan dan hatus dipantang,Management
+Doc-113,apakah penyebabnya,Cause
+Doc-113,kira kira penyakit apa itu dok,Diagnosis
+Doc-113,apakah berbahaya,Prognosis
+Doc-114,apakah gejala yang saya alami ini sudah bisa dikatakan vertigo,Diagnosis
+Doc-114,apakah ada kaitannya antara darah kental dengan vertigo,Information
+Doc-114,apakah sudah benar dengan obat yang saya mnm betaserc dan flunarizine,Management
+Doc-114,tetapi kenapa masih terasa sama ya dok,Prognosis
+Doc-114,sebaiknya saya periksa kedokter apa ya dok,PersonORG
+Doc-115,apakah hepatitis yang diderita teman saya belum sembuh,Diagnosis
+Doc-115,bisakah hepatitis sembuh total dok,Prognosis
+Doc-115,apakah perlu teman saya memeriksakan kembali setelah 4 thn ini,Prognosis
+Doc-116,apa kah yang saya alami ini gejala awal gonore dok,Diagnosis
+Doc-117,tumor apa dok,Diagnosis
+Doc-119,sebenarnya apa yang terjadi dengan saya,Diagnosis
+Doc-119,apakah saya memang mengidap adhd atau saya mengalami perkembangan mental yang buruk,Diagnosis
+Doc-119,apa yang harus saya lakukan,Management
+Doc-12,apakah bisa menular dokter,Susceptibility
+Doc-121,apakah bisa di obati,Management
+Doc-123,apakah sulit berjalan itu hanya efek smentara atau efek yang berkelanjutan karena darah tinggi,Complication
+Doc-123,bagaimana cara mengatasi penyakit tersebut,Management
+Doc-125,apa penyebabnya virus tersebut berkembang sangat lambat,Information
+Doc-125,apabila saya menikah dalam waktu dekat apakah diperbolehkan,Information
+Doc-125,harus menunggu sampai virus tersebut hasilnya negatif,Information
+Doc-126,apakah karena pengaruh dbd yang belum sembuh atau memang karena pengaruh gula dan tekanan darah yang tinggi,Complication
+Doc-126,apakah ada alternatif obat lain untuk gula darah selain suntik insulin,Management
+Doc-126,makanan yang disarankan untuk menurunkan dan menstabilkan gula darah,Management
+Doc-126,kapan sebaiknya ayah saya bisa melakukan olah raga,Management
+Doc-126,makanan apa yang disarankan untuk mempercepat pemulihan gula darah dan tekanan darahnya,Management
+Doc-126,apakah bisa selama masa penyembuhan ini mengkonsumsi beras merah,Management
+Doc-126,apakah masih aman jika ayah saya masih mengkonsumsi nasi,Management
+Doc-126,apakah ayah saya bisa pulih berat badannya dok,Prognosis
+Doc-128,apakah bisa mendapat kan imunisasi ulang di usia 12 tahun,Information
+Doc-129,mengapa setiap pup selalu menangis dan mengeden sampai berkeringat dan pup nya itu 3 hari sekali,Cause
+Doc-129,mengapa demikian yah dok,Cause
+Doc-13,apakah itu wajar atau normal,Diagnosis
+Doc-130,sebaikny diksh apa ya dok,Management
+Doc-131,bagaimana dengan gejala klinis seperti sering buang air kecil kesemutan dan penurunan brt badan yang cukup drastis,Manifestation
+Doc-131,kemudian yang dimaksud reaksi kimia yang menyebabkan kadar glukosa mjd tinggi apa,Information
+Doc-132,apakah ada cara untuk tidak sakit saat haid,Management
+Doc-132,apa bisa setelah nikah tidak nyeri lagi saat haid,Information
+Doc-132,apa yang saya alami ini tidak wajar,Information
+Doc-132,apakah sangat berbahaya,Prognosis
+Doc-133,adakah ini menunjukkan simtom yang tidak baik atau suatu kebiasaan,Manifestation
+Doc-133,adakah satu penyakit atau sebaliknya,Diagnosis
+Doc-135,kenapa telapak tangan saya sudah 2 tahun ini keriput walaupun tidak basah,Cause
+Doc-136,apakah onani dapat menyebabkan fournier gangren,Complication
+Doc-136,merokok dapat menyebabkan fournier gangren,Complication
+Doc-137,apakah itu sudah bisa di sebut varikokel atau tidak,Diagnosis
+Doc-138,apakah gejala tersebut termasuk gejala hidrosefalus,Manifestation
+Doc-138,apa yang harus saya lakukan,Management
+Doc-140,apa 2 yang harus dilakukan agar tidak terjadi preterm dan abortus,Management
+Doc-140,apakah saya bisa hamil normal sampai aterm dok,Prognosis
+Doc-140,apa dilakukan untuk mencegah kontraksi 2 saat hamil dok,Management
+Doc-142,apa sebabnya,Cause
+Doc-142,apa obatnya,Management
+Doc-143,apa penyebabnya dok,Cause
+Doc-143,apa obatnya,Management
+Doc-143,bahaya tidak,Complication
+Doc-145,kenapa ya dada sebelah kiri saya sering nyeri,Cause
+Doc-145,apa itu karena maag,Manifestation
+Doc-147,fibromyalgia syndrome fms itu apa,Information
+Doc-148,apakah penyembuhan harus dengan operasi dan tidak ada terapi lain,Management
+Doc-148,apakah sama dengan hernia,Information
+Doc-149,saya ini kenapa yaj dok,Diagnosis
+Doc-150,apakah ini mang terjadi pada semua wanita yang hamil pertama,Information
+Doc-150,obat apakah yang harus saya kasi minum,Management
+Doc-153,saya kok sering kencing tak terhankan,Cause
+Doc-153,bgaimana cara mengatasinya agar tidak terjadi lagi,Management
+Doc-154,apakah whey protein merk isolatte itu berbahaya atau memiliki efek samping di kemudian hari,NotDisease
+Doc-155,penyebab utama pertumbuhan fam apa,Cause
+Doc-155,apa yang kira nya agar menghambat pertumbuhan fam,Management
+Doc-156,apakah penyakit saya karena sering merasa nyeri bagian perut bawah kiri apa karena sering tahan bak,Cause
+Doc-156,apa penyebabnya,Cause
+Doc-156,apakah kanker serviks bisa diketahui dengan usg,Diagnosis
+Doc-157,apakah saya harus berhenti sementara untuk minum susu,Information
+Doc-157,bagaimanakah kondisi janin kalau tidak di beri susu,Information
+Doc-159,obat apakah yang tepat untuk menghambat pertumbuhannya,Management
+Doc-159,apakah perigyum dapat sembuh tanpa operasi dok,Prognosis
+Doc-16,apakah kemungkinan saya harus operasi,Management
+Doc-16,hanya dikasih obat semprot bisa sembuh,Management
+Doc-162,apakah ini penyakit dok,Diagnosis
+Doc-162,apakah ini memiliki dampak kedepanya,Complication
+Doc-164,apa ini penyebab badan saya tidak seimbang lagi,Manifestation
+Doc-164,apa betul bisa melintir,Information
+Doc-164,apakah sugesti,OtherEffect
+Doc-164,bagaimana solusinya,Management
+Doc-164,adakah gerakan 2 untuk melatih menghilangkan ketidak seimbangan itu,Management
+Doc-165,penyakit hepatitis b apakah bisa disembuhkan dok,Prognosis
+Doc-166,apa kah anak saya anak terkena campak,Diagnosis
+Doc-169,apakah berat badan anak saya termasuk kategori obesitas,Diagnosis
+Doc-170,apakah saya berpotensi memiliki kepribadian ganda,Diagnosis
+Doc-171,apakah saya harus mengganti susu pendampingnya,Management
+Doc-171,susu apa yang kira 2 bisa drekomendasikan sesuai kebutuhan anak saya,Information
+Doc-174,apa rasa pusing yang dirasakan hanya karena rasa khawatir berlebihan,Cause
+Doc-175,itu kenapa ya dok,Cause
+Doc-176,itu stadium berapa,Diagnosis
+Doc-176,apa perlu dilakukan operasi,Management
+Doc-177,apakah itu normal ya,Diagnosis
+Doc-177,adakah hubungannya dengan penyakit jantung,Complication
+Doc-178,itu kenapa ya dok,Cause
+Doc-178,apakah karena kurang tidur atau ada gangguan kecemasan,Cause
+Doc-179,apakah ini artinya saya ada penyakit jantung,Diagnosis
+Doc-179,bagaimana cara saya memastikan apakah saya menderita penyakit jantung,Diagnosis
+Doc-18,kira kira saya juga termaksud orang yang menderitah kanker,Diagnosis
+Doc-18,penyebab gusi berdarah itu gimana dokter,Cause
+Doc-18,apakah benar saya mengalami kedua penyakit tersebut,Diagnosis
+Doc-180,apakah ini termasuk serangan jantung,Diagnosis
+Doc-180,apakah saya perlu memeriksakan jantung kolesterol tekanan darah,Diagnosis
+Doc-180,apa yang harus saya lakukan,Management
+Doc-180,apakah gejala gejala ini bisa hilang dengan sendirinya,Prognosis
+Doc-180,atau ada hal hal yang perlu diperhatikan,Information
+Doc-180,apakah ada gejala gangguan jantung,Manifestation
+Doc-180,apa saya perlu periksa ke dari jantung,PersonORG
+Doc-181,apakah mungkin saya memiliki penyakit jantung,Diagnosis
+Doc-182,kenapa jantung saya kok berdebar teru atau deg degan,Cause
+Doc-183,apakah ada masalah dengan jantung saya,Diagnosis
+Doc-183,apakah ini normal,Diagnosis
+Doc-183,apakah hal tersebut tanda ada penyakit,Diagnosis
+Doc-184,apakah gejala ini gejala lemah jantung,Diagnosis
+Doc-185,apakah ciri ciri depresi itu dok,Manifestation
+Doc-185,apakah saya kena depresi dok,Diagnosis
+Doc-186,apakah saya punya gejala jantung,Diagnosis
+Doc-186,apa penyebab nya,Cause
+Doc-186,bagaimana caramengatasinya dokter,Management
+Doc-186,mengapa jantung saya dek dekan,Diagnosis
+Doc-187,apakah penyakit yang saya derita,Diagnosis
+Doc-187,apakah ada pengaruh dari asam lambung yang naik,Cause
+Doc-188,kira kira itu salah satu indikator jantung saya tidak normal apa sudah di pastikan jantung saya tidak sehat,Diagnosis
+Doc-191,cara mengatasinya seperti apa biar cepat bicara,Management
+Doc-191,apa anak saya terlambat bisa bicara,Diagnosis
+Doc-191,sebetulnya umur berapa anak akan lancar berbicara,Information
+Doc-192,kenapa anak 14 bulan belum bisa bicara,Cause
+Doc-193,apakah normal dok,Diagnosis
+Doc-193,adakah tips solusinya,Management
+Doc-194,apa penyebabnya,Cause
+Doc-195,pada usia berapa anak normalnya bisa bicara secara lancar,Information
+Doc-197,apakah keponakan saya juga autis,Susceptibility
+Doc-197,bagaimana melatih anak agar bisa segera berbicara,Management
+Doc-198,apa penyebabnya,Cause
+Doc-198,bagaimana cara mengatasinya,Management
+Doc-20,apa pengaruh asam lambung ke jantung dokter,Complication
+Doc-20,kira kira saya penyakit jantung tidak dokter,Diagnosis
+Doc-201,berbahayakah kondisi ini,Complication
+Doc-202,saya harus periksa ke spesialis apa,PersonORG
+Doc-202,apa yang harus saya perbuat,Management
+Doc-203,berbahayakah kondisi ini,Complication
+Doc-204,apakah itu akan jadi berpengaruh pada aktivitas saya,Complication
+Doc-205,kenapa kepala saya sering sakit dan penglihatan terasa kabur,Cause
+Doc-205,apakah tidak berbahaya,Complication
+Doc-206,sudah 2 bulan pipi saya kenapa ya kok masih tembem,Cause
+Doc-206,itu cara normalin nya gimana ya dok,Management
+Doc-206,saya minta saranya biar normal lagi dok,Management
+Doc-207,kira kira apa tulang punggung saya akan bisa baik baik saja dok,Prognosis
+Doc-208,apakah itu berbahaya dok,Complication
+Doc-208,bagaimana solusi penanganannya,Management
+Doc-208,apa penyebab rasa ngilu itu muncul,Cause
+Doc-211,kira kira kenapa ya dok,Cause
+Doc-211,berapa lama sembuh,Prognosis
+Doc-212,kenapa setelah peeling seminggu pengelupasanya kok lebih dari seminggu terus muka saya jadi kasar merah muka saya jadi sensitif,Cause
+Doc-212,kalau saya berhenti peeling apa ada efeknya,Information
+Doc-212,kira kira wajah saya bisa normal lagi tidak dok,Prognosis
+Doc-213,bolehkah remaja berumur 14 tahun memakai krim pemutih,Information
+Doc-213,saya pengen ngilanginnya tetapi gimana,Management
+Doc-213,pakai produk apa,Management
+Doc-213,menurut dokter boleh tidak saya pakai face moisturizer di atas,Management
+Doc-213,bahaya tidak dok pakai begituan,Complication
+Doc-213,sebutin produk apa yang cocok buat saya,Management
+Doc-213,bagaimana pola hidup yang sehat untuk menghilangkan noda bekas jerawat,Management
+Doc-218,saya harus pakai produk apa untuk meredakan jerawat jerawat saya dan bekasnya,Management
+Doc-218,apakah kulit wajah saya bisa tumbuh lagi,Prognosis
+Doc-222,apakah benar ada dalam istilah medis jerawat alergi,Information
+Doc-222,apa ada hubungannya jerawat dengan kadar kolesterol dalam darah,Susceptibility
+Doc-222,bagaimana cara mengatasi jerawat dengan benar,Management
+Doc-223,apakah kandungan di dalamnya aman untuk di pakai,Information
+Doc-223,apakah produk produk tersebut ampuh untuk mengatasi masalah masalah kecantikan,Prognosis
+Doc-224,itu baik tidak dok untuk kesehatan,Information
+Doc-225,boleh tidak anak umur4 tahun an tiap hari makan mi instan,NotDisease
+Doc-226,mengapa ada label informasi nilai gizi pada kemasan mi instan,NotDisease
+Doc-226,apakah gizi berbahaya untuk tubuh,NotDisease
+Doc-226,berapa lama tubuh dapat mengeluarkan kandungan berbahaya dari mi instan,NotDisease
+Doc-227,makan mi instan berapa bulan sekali,NotDisease
+Doc-228,apa yang punya penyakit maag lambung apa boleh makan mi instan,Information
+Doc-23,mohon masukan dan sarannya apakah saya mesti ganti dokter anak,Information
+Doc-23,mohon sarannya dokter anak yang bagus untuk lokasi xxxxx selatan dokter,PersonORG
+Doc-230,apakah sendawa ini juga efek dari bumbu atau memang perut saya sudah tidak bisa mengekstrak bahan mie instan dengan baik,Cause
+Doc-231,apa kah kalau saya makan mie instan akan mengganggu kehamilan saya,Susceptibility
+Doc-232,apa ada dampakny pada kesehatan dalam jangka pendek jangka panjangny,Complication
+Doc-233,sebenarnya bahaya tidak sih dok mie instan itu,Information
+Doc-233,apa dampaknya untuk ponakan saya itu dok,Information
+Doc-234,kandungan na yang tinggi tbs terdapat di mana,NotDisease
+Doc-234,apakah di mie atau dibumbunya,NotDisease
+Doc-235,boleh tidak sih makan mie instan atau mie mie lainnya selama 2 kali seminggu,Information
+Doc-236,apakah itu berpengaruh buruk terhadap kehamilan saya,Susceptibility
+Doc-236,apakah boleh saya makan mie instant sekali sekali,Information
+Doc-236,apakah berbahaya,Complication
+Doc-237,kira kira hal itu normal atau bagaiman dok,Diagnosis
+Doc-238,kira kira kenapa ya dok,Diagnosis
+Doc-239,kira kira apa,Diagnosis
+Doc-239,kenapa,Diagnosis
+Doc-24,apa pengaruhnya terhadap syaraf,Complication
+Doc-24,adakah batasan usia sampai anak tersebut tidak mengalami kejang lagi,Prognosis
+Doc-240,apa penyebab yang menyebabkan penyakit itu tidak kunjung hilang,Cause
+Doc-240,bagaimana cara alami untuk menguranginya,Management
+Doc-240,apakah tetes mata biasa dapat mengurangi iritasi mata yang disebabkan oleh hordoleum tersebut,Prognosis
+Doc-242,kira kira kenapa ya dok,Diagnosis
+Doc-242,apakah ada cara untuk menghilangkan gatelnya,Management
+Doc-243,apakah saya terkena penyakit belekan atau mungkin yang lainnya,Diagnosis
+Doc-244,kira kira kenapa ya dok,Cause
+Doc-246,bagaimana mengobatinya,Management
+Doc-246,penyakit apa itu dok,Diagnosis
+Doc-247,diagnosanya nya kira kira apa,Diagnosis
+Doc-247,makanan alami yang bisa dipakai buat mengobatinya itu apa ya dok,Management
+Doc-248,kira kira kenapa ya dok dengan mata saya ini,Diagnosis
+Doc-248,apa berbahaya juga,Complication
+Doc-249,kira kira ini penyakit apa ya dok,Diagnosis
+Doc-249,bagaimana cara mengatasi nya,Management
+Doc-249,obat apa yang kira kira bisa menghilangkannya,Management
+Doc-25,itu kenapa ya dokter,Diagnosis
+Doc-250,bagaimana cara mengatasinya,Management
+Doc-250,penyakit asam lambungkah,Diagnosis
+Doc-251,gejala apakah itu,Diagnosis
+Doc-251,bagaimana pengobatannya,Management
+Doc-253,kira kira saya kenapa dok,Diagnosis
+Doc-254,itu kenapa dok,Cause
+Doc-255,itu kenapa y dok,Diagnosis
+Doc-256,penyakit apakah yang saya derita itu,Diagnosis
+Doc-256,adakah obat herbal atau obat tradisionalnya,Management
+Doc-257,ini gejala apa dok,Diagnosis
+Doc-258,apakah kasus saya ini bisa merupakan kasus usus,Diagnosis
+Doc-258,apakah ciri ciri diatas bisa mengarah ke kanker usus dok,Manifestation
+Doc-259,kenapa akhir akhir ini sudah hampir 3 bulan belakangan ini tubuh bagian kiri saya terasa nyeri dan pegal pegal,Cause
+Doc-259,apakah gejala tersebut karena gangguan dari lambung saya dok,Cause
+Doc-260,itu kenapa dok,Cause
+Doc-261,apakah masih bisa disembuhkan dengan pengobatan tanpa operasi,Management
+Doc-262,apakah perlu dioperasi,Management
+Doc-262,ada obat wasir yang tanpa operasi,Management
+Doc-263,apakah itu bisa disembuhkan,Prognosis
+Doc-263,apakah itu berbahaya,Complication
+Doc-263,bagaimana penanganannya,Management
+Doc-263,bisakah menyembuhkannya tanpa operasi,Prognosis
+Doc-264,apakah ada cara lain untuk penyembuhan penyakit wasir yang sudah stadium 4 tersebut selain di operasi,Management
+Doc-265,apakah ambien yang sudah menonjol bisa sembuh tanpa operasi dengan cukup ramuan herbal,Management
+Doc-266,ada obat wasir yang tanpa operasi,Management
+Doc-268,apa itu wajar,Diagnosis
+Doc-268,bolehkah saya menggunakan obat pencahar seperti microlak atau sejenisnya,Management
+Doc-269,apakah perlu operasi untuk penyembuhanya,Management
+Doc-269,apakah itu yang disebut hemoroid,Diagnosis
+Doc-27,gimana cara pengobatan kanker darah setadium 1 biar bisa sembuh dan tak kambuh lagi,Management
+Doc-27,apakah ada kemungkinan kanker ini bisa sembuh total,Prognosis
+Doc-270,apakah wasir ini berbahaya bagi bayi saya jika tidak diobati dari masa hamil,Complication
+Doc-270,adakah obat yang manjur yang bisa mengempeskan atau mengobati wasir tersebut,Management
+Doc-270,apakah berbahaya jika saya menginginkan melahirkan normal jika saya mengalami wasir,Complication
+Doc-273,mimisan ini bahaya kah bagi kesehatan saya,Complication
+Doc-274,bagaimana cara mengatasi baunya agar hilang,Management
+Doc-274,penyakit apa yah dok,Diagnosis
+Doc-275,kira kira kena apa ya dok,Cause
+Doc-275,bagaimana cara nyembuhinnya,Management
+Doc-276,kira kira saya kenapa dok,Diagnosis
+Doc-277,kira kira apa yang terjadi dengan saya,Diagnosis
+Doc-279,apakah ini termasuk darah rendah dok,Diagnosis
+Doc-279,bagaimana cara mengatasi nya dok,Management
+Doc-280,apakah ini sinusitis ataukah hanya skedar alergi,Diagnosis
+Doc-280,bagaimana cara menanganinya dok,Management
+Doc-281,bagai mana cara pengobatannya,Management
+Doc-281,dan penyakit apa itu dok,Diagnosis
+Doc-282,yang ingin saya tanyakan sakit tenggorokan apa yang sedang saya alami,Diagnosis
+Doc-282,bagaimana cara mengatasinya,Management
+Doc-282,dan apa penyebabnya,Cause
+Doc-282,sakit tenggorokan apa yang sedang saya alami,Diagnosis
+Doc-282,apa penyebabnya,Cause
+Doc-283,apakah semua yang saya rasakan memang gara gara maag atau ada penyakit lain,Diagnosis
+Doc-283,pengobatan yang seperti apa yang harus saya tempuh agar cepat sembuh,Management
+Doc-283,berapa lama setelah sembuh untuk saya memulai bekerja kembali,Prognosis
+Doc-284,apakah gejala ini dok,Diagnosis
+Doc-285,penyakit apa sebenarnya,Diagnosis
+Doc-286,bagaimana pendapat dokter tentang sakit saya ini,Information
+Doc-287,apakah itu benar,Diagnosis
+Doc-287,apa saya memiliki ciri ciri berpenyakit jantung,Manifestation
+Doc-288,apa yang terjadi,Diagnosis
+Doc-288,apa yang bisa saya lakukan,Management
+Doc-289,apa denyutan yang saya rasakan dibagian pusar itu merupakan ciri ciri asam lambung yang akut,Manifestation
+Doc-290,apakah keluhan keluhan penyakit yang saya alami memang masalah kejiwaan,Diagnosis
+Doc-290,dokter apa yang sebaiknya saya temui,PersonORG
+Doc-291,kenapa sesak itu tiap hari saya rasakan ya dok,Cause
+Doc-291,apa benar anemia tahu masuk ke gejala penyakit lainnya ?,Diagnosis
+Doc-293,apakah memang betul gejala sakit jantung dan maag sama,Manifestation
+Doc-297,apa saja asupan gizi yang lengkap,Management
+Doc-297,apakah saya harus minum suplemen obat obatan atau yang bisa buat lebih berisi,Management
+Doc-297,apa dampak dari tubuh kurus,Complication
+Doc-298,kenapa ya dok tubuh saya ini tidak bisa berisi padahal saya sudah makan banyak,Cause
+Doc-299,apakah ada gangguan pada sistem penyerapan dan pencernaan saya,Diagnosis
+Doc-299,suplemen obat atau asupan hormon apa yang cocok dengan saya,Management
+Doc-3,itu namanya amnesia apa dokter,Diagnosis
+Doc-3,bisa disembuhin tidak,Prognosis
+Doc-300,ibu saya kenapa,Diagnosis
+Doc-301,kenapa ya dok kok saya merasa badan saya semakin hari semakin kurus saja,Cause
+Doc-301,apa yang terjadi terhadap tubuh saya,Diagnosis
+Doc-305,itu kenapa ya dok,Cause
+Doc-305,saya kenapa ya dok,Diagnosis
+Doc-305,apakah saya hamil,Diagnosis
+Doc-306,apa saya positif terkena kanker serviks,Diagnosis
+Doc-307,apakah ada tanda penyakit dari yang saya alami ini dok,Diagnosis
+Doc-308,kenapa dengan menstruasi saya,Cause
+Doc-309,kenapa ya dok,Diagnosis
+Doc-309,apa pengaruh dari kb tersebut,Complication
+Doc-310,saya sebenarnya kenapa dok,Diagnosis
+Doc-311,normal apa tidak y,Diagnosis
+Doc-312,apakah betul dok itu keguguran,Diagnosis
+Doc-313,apa penyebabnya,Cause
+Doc-313,apakah ada sebabnya dari makanan,Cause
+Doc-318,apakah tidak bisa sembuh,Prognosis
+Doc-318,apa yang saya lakukan dok,Management
+Doc-318,apa jenis penyakit saya ini,Diagnosis
+Doc-319,itu sakit apaby dok,Diagnosis
+Doc-319,obatnya apa,Management
+Doc-320,apa tidak bisa cair dan masuk kedalam tubuh sehingga keluar melalui kotoran bukan melalui mulut,Anatomy
+Doc-320,sebenarnya lendir itu diproduksi dari mana,Anatomy
+Doc-320,apakah ada terapi untuk menghilangkannya,Management
+Doc-321,seberapa normalkah adanya lendir di tenggorokan,Information
+Doc-321,saya harus periksa ke tht dengan pemeriksaan macam apa ya,Diagnosis
+Doc-322,sebaikany apa yang harus saya kakukan karena itu sangat mengganggu,Management
+Doc-322,apa ada sangkutpautnya denag lendir tersebut,Complication
+Doc-326,bagaimana caranya,Information
+Doc-326,apakah saya masih bisa hamil kembali,Information
+Doc-327,bagaimana caranya ya dok jika ingin hamil lagi,Information
+Doc-327,apakah masih bisa,Information
+Doc-327,mungkin dengan sistem bayi tabung atau cara lain,Information
+Doc-328,berapa tahun bisa punya anak lagi,Prognosis
+Doc-329,apakah seorang perempuan yang sudah kb steril apa masih ada jalan alternatif untuk punya anak lagi,Information
+Doc-330,dapatkah saya hamil lagi,Prognosis
+Doc-330,dengan cara apakah insem atau bt,Information
+Doc-331,bagaimana caranya saya bisa hamil lagi,Information
+Doc-332,apakah alergi pada saat hamil akan berpengaruh terhadap janin,Complication
+Doc-332,apa efek sampingnya jika wanita disteril,Complication
+Doc-334,lebih baik saya lahirkan normal atau caesar sekaligus steril,Prognosis
+Doc-335,apa tidak apa apa untuk ke 3 kalinya caesar,Information
+Doc-335,apa bisa kelahiran ke 3 saya bisa melahirkan normal dengan jarak 2 tahun dengan anak ke 2,Information
+Doc-335,apa tidak apa apa 3 kali caesar berturut berturut,Information
+Doc-35,penyakit apa saja yang bikin rambut rontok,Diagnosis
+Doc-353,apakah setiap batu empedu harus ditangni dengan operasi,Management
+Doc-353,berapa biaya operasinya dok,Other
+Doc-353,efek samping jika tidak operasi itu bagaimana,Complication
+Doc-36,apakah penyakit maag bisa disembuhkan,Prognosis
+Doc-36,ada obat untuk mengatasi liver,Management
+Doc-36,apakah liver benar benar membunuh,Prognosis
+Doc-362,apakah itu berarti hepatitis b saya sudah sembuh dok,Diagnosis
+Doc-363,apa saya sudah sembuh total bu dokter,Diagnosis
+Doc-363,kesimpulan dari hasil tes hbv dna saya ini maksudnya apa,Information
+Doc-364,siang dok saya mau tanya apa bedanya pemeriksaan hbv dna kualitatif dengan hbv dna kuantitatif,Information
+Doc-364,apakah salah satu nya lebih lengkap atau bagaimana dok,Information
+Doc-38,kenapa akhir ini suami saya sering mengalami sakit dada sebelah kanan dan batuk juga keringat yang berlebih,Diagnosis
+Doc-38,kira suami saya itu sakit apa ya dok,Diagnosis
+Doc-38,bagai mana cara mengobati nya,Management
+Doc-387,apakah memang benar jika sedang terkena flu akan berdampak juga pada gangguan telinga,Complication
+Doc-387,dampak apa yang akan ditimbulkan,Complication
+Doc-387,amankah jika saya sudah terlanjur meneteskan obat tetes telinga tersebut kedalam telinga saya tanpa adanya resep dari dokter,Management
+Doc-391,sebenarnya berat badan janin saya normal atau tidak yah dok,Diagnosis
+Doc-391,apakah bisa berubah posisinya dok,Information
+Doc-4,apa penyebab keputihannya,Cause
+Doc-4,bagaimana mengobatinya,Management
+Doc-4,apakah punya pengaruh kambuhnya keputihan,Susceptibility
+Doc-41,itu kenapa ya,Diagnosis
+Doc-41,kok tiba 2 pas saya telan sama bicara timbul rasa sakit di dekat benjolannya ya dok,Cause
+Doc-414,tetapi kok sekarang ini sll timbul nyeri hebat didaerah bekas operasi,Complication
+Doc-417,jika saya mau berobat harus ke dokter apa ya,PersonORG
+Doc-417,lalu apa obatnya,Management
+Doc-417,apakah saya alergi karena op caesar,Diagnosis
+Doc-421,kenapa ya kadang kadang dibekas jahitan berasa perih kalau makan jeruk,Information
+Doc-421,biasanya berapa lama ya jahitannya kering luar dalam,Prognosis
+Doc-422,apakah tidak berbahaya untuk luka jahitan operasi,Information
+Doc-422,nah itu yang benar yang mana ya dok,Information
+Doc-423,apa yang harus saya lakukan agar bisa normal,Management
+Doc-423,apakah ini berbahaya,Complication
+Doc-423,bisakah saya melahirkan normal,Information
+Doc-43,apa obat alami untuk mengatasi gatal gatal,Management
+Doc-43,penjelasan macam macam gatal,Information
+Doc-43,beserta penyebab,Cause
+Doc-43,cara mengatasinya,Management
+Doc-45,apa dok y penyebabnya,Cause
+Doc-45,dan saya harus bagaimana,Management
+Doc-46,gimana dokter prosentasi kesembuhannya mengingat baru 1 bulan istri saya sakit,Prognosis
+Doc-47,apa kah itu berdampak dokter,Information
+Doc-48,kira kira apa penyebabnyanya dok,Cause
+Doc-48,saya sakit apa,Diagnosis
+Doc-48,bagaimana pengobatannya,Management
+Doc-498,saya harus berobat ke dokter specialist apa,PersonORG
+Doc-498,penyakit apa ini dok,Diagnosis
+Doc-50,sebaiknya saya harus bagaiman dok,Management
+Doc-50,apakah saya harus konsultasi ke dokter tulang untuk mengetahui kendisi sebenarnnya di leher anak saya,PersonORG
+Doc-52,apa kah sakit pinggang sebelah kiri secara berlebihan akan menyebabkan kefatalan nantinya,Complication
+Doc-52,apa obatnya dok,Management
+Doc-52,apakah obat yang cepat dalam mengobatinya dok,Management
+Doc-53,penyebabnya apa ya dok,Cause
+Doc-53,apa berbahaya,Complication
+Doc-54,apakah dokter punya rekomendasi obat lain,Management
+Doc-54,apakah ada indikasi penyakit kulit lain pada bibir saya,Diagnosis
+Doc-55,sakit di bagian perut bawah dan terasa hingga ulu hati dan tembus kebelakang penyebabnya apa ya,Diagnosis
+Doc-55,penangananya seperti apa,Management
+Doc-57,apakan pnyakit ini bisa sembuh dengan sendirinya,Prognosis
+Doc-58,apa yang saya alami,Diagnosis
+Doc-58,obat apa yang baik saya konsumsi,Management
+Doc-588,kalau ligamen pada lutut patah tetapi tidak di operasi apa masih bisa sembuh seperti sedia kala,Prognosis
+Doc-588,kalau tidak sembuh apakah nanti bisa berakibat lebih buruk lagi,Prognosis
+Doc-588,seandainya di operasi kira kira biayax berapa y,Other
+Doc-59,apa ini penyakit serius dok,Diagnosis
+Doc-59,bagaimana penanggulangannya saat kambuh,Management
+Doc-61,seperti apa ciri ciri kehamilan yang sehat itu ya dok,Manifestation
+Doc-61,apa itu normal dok,Diagnosis
+Doc-61,apakah itu bisa berpengaruh trhadap kandungan saya ya dok,Susceptibility
+Doc-62,itu tandanya apa yeah dok,Diagnosis
+Doc-621,apa saya perlu ke dokter,Information
+Doc-621,kalau perlu ke dokter mana ya,PersonORG
+Doc-621,apa yang harus saya lakukan untuk membuat kondisi saya optimal,Management
+Doc-63,apa ada hubungannya saya jatuh dengan pinggul kiri dengan pid atau isk dok,Complication
+Doc-69,apakah sering sembelit dapat menyebabkan kanker usus,Diagnosis
+Doc-69,apa ini yang menyebabkan berat badannya tidak mau bertambah,Complication
+Doc-70,apakah nanti anak akan kena penyakit albino juga jika melahirkan nanti,Susceptibility
+Doc-71,apakah penyakit ini masih bisa disembuhkan,Prognosis
+Doc-72,bagaimana menghilangkan phobia saya ini,Management
+Doc-72,bagaimana dengan pengobatan hipnoterapi apa bisa menghilangkan phobia saya ini,Management
+Doc-73,apakah ada hubungan antara kista tyroid dan fibroid,Information
+Doc-73,terapi apa selain operasi,Management
+Doc-73,kemungkinannya berapa persen berkembang jadi sel kanker,Complication
+Doc-73,apakah ini efektif dan aman,Management
+Doc-73,apa penyebabnya,Cause
+Doc-74,apakah mungkin calon si buah hati baik itu laki laki atau perempuan akan mengidap penyakit yang sama seperti ibunya,Susceptibility
+Doc-74,bagaimanakah cara perpaduan darahnya,Information
+Doc-76,yang ingin saya tanyakan apakah ini bisa disembuhkan,Prognosis
+Doc-77,apakah ini menandakan ada indikasi penyakit serius seperti gangguan jantung,Diagnosis
+Doc-78,bagaimana cara pengobatanya,Management
+Doc-78,apakah perlu operasi,Management
+Doc-78,dimanakah saya harus operasi,PersonORG
+Doc-79,apa kira kira penyakit yang diderita pada anak saya ini,Diagnosis
+Doc-79,terus penanganannya bagaimana,Management
+Doc-81,penyakit apakah yang saya derita itu,Diagnosis
+Doc-81,adakah obat herbal atau obat tradisionalnya,Management
+Doc-82,apakah benar diperbolehkan wanita yang ingin hamil melakukan pijat untuk posisi rahim,Information
+Doc-82,apa benar kalau susah hamil itu karena letak rahimnya atau peranakan turun,Anatomy
+Doc-82,apakah kb suntik mempengaruhi tingkat kekeringan rahim,Information
+Doc-83,apakah dia bisa kembali stabil mood dan emosinya,Prognosis
+Doc-83,apakah respon saya sudah benar kemarin,Information
+Doc-83,butuh berapa lama untuk dia kembali stabil,Prognosis
+Doc-85,apakah saya memang harus operasi untuk yang kedua kalinya,Management
+Doc-85,berbahayakah seandainya setelah operasi saya langsung hamil lagi mengingat luka bekas operasi belum sembuh,Complication
+Doc-85,apakah obat penyubur kandungan bisa menyebabkan bertambah besarnya kista,Complication
+Doc-85,apa saran dokter untuk kasus seperti saya agar bisa hamil lagi,Information
+Doc-87,suami saya mengidap penyakit apa ya dok,Diagnosis
+Doc-87,obat apa yang cocok untuk diberikan kepada suami saya,Management
+Doc-88,apakah itu normal,Diagnosis
+Doc-89,tetapi setelah operasi sampai sekarang kok belum terlihat ada perubahan ya,Cause
+Doc-89,terus kalau saya mau renang dan snorkling di pantai boleh tidak dok,Information
+Doc-90,penyakit saya ini apa ya dok,Diagnosis
+Doc-90,apakah efek samping dari pemberian obat dalam jangka waktu lama,Complication
+Doc-90,tindakan yang harus saya lakukan,Management
+Doc-92,apakah obat itu berbahaya tidak untuk kesehatan anak saya,Information
+Doc-92,apakah akan dengan minum obat depaken secara berkala selama 2 tahu akan menjamin anak saya sembuh total dari step atau kejang,Prognosis
+Doc-92,mohon saran dan masukkannya untuk kesembuhan total anak saya,Management
+Doc-93,gejala apakah ini,Diagnosis
+Doc-93,kenapa kaki saya sering kesemutan kalau habis duduk bersila dan keluar keringat di kaki,Cause
+Doc-94,apakah ada gejala saya menderita tumor,Manifestation
+Doc-94,adakah solusinya,Management
+Doc-96,kenapa ya telinga kanan dan kiri saya sering sakit,Cause
+Doc-96,apa ya dok penyebab telinga saya itu,Cause
+Doc-96,tindakan apa yang harus diberikan kepada saya dok,Management
+Doc-96,kenapa ya dok kok tidak mau sembuh sembuh,Prognosis
+Doc-97,apakah kegemaran saya ini berbahaya bagi kesehatan jantung saya,Information
+Doc-98,apa sebabnya,Cause
+Doc-99,pertanda apakah itu,Diagnosis
+Doc-189,sebenarnya apa penyakit saya,Diagnosis
+Doc-189,apakah ada masalah di jantung saya atau organ tubuh lain,Diagnosis
+Doc-200,apa ada pengaruhnya,Information
+Doc-209,apa kara urat nya belum pada nyambung,Cause
+Doc-314,apa ini efek dari kb tersebut dok,Complication
+Doc-314,kenapa yaa dok,Cause
+Doc-315,apakah yang menyebabkan hal seperti itu,Cause
+Doc-315,apakah itu suatu penyakit dok,Diagnosis
+Doc-323,tergolong sinusitis apa penyakit saya dok,Diagnosis
+Doc-336,apakah saya bisa dapat memiliki anak lagi,Information
+Doc-336,dimanakah rs yang dapat menyambungnya lagi,PersonORG
+Doc-336,apakah dapat disambung lagi,Information
+Doc-336,berapa kira kira biayanya,Other
+Doc-337,apakah ini sehat dok,Diagnosis
+Doc-340,bagaimana pencegahan supaya kulitnya tidak biang keringat,Management
+Doc-340,apakah wajar setiap dia menyusui keluar keringat banyak,Diagnosis
+Doc-341,keringat dingin dan keringat ditangan itu apa penybab nya,Cause
+Doc-341,bagaimana cara mengobatinya,Management
+Doc-341,bagaimana cara menghilangkan pecandu tramadol tetapi tubuh saya tidak lemas dan tidak keluar keringat dingin keringat ditangan,Management
+Doc-344,keringat dingin keringat ditangan itu disebabkan oleh apa,Cause
+Doc-344,cara mengobatinya bagaimana,Management
+Doc-344,bagaimana cara menghentikan kecanduan tramadol keringat dingin keringat ditangan dok,Information
+Doc-345,apakah itu termasuk wajar,Diagnosis
+Doc-345,mungkin ada kelainan,Diagnosis
+Doc-346,kenapa ya dok,Cause
+Doc-347,itu kenapa dok,Cause
+Doc-347,apa ada hubnganny ke jantung dok,Information
+Doc-348,apakah ada sesuatu atau kelainan pada kelenjar keringat suami saya ya dok,Diagnosis
+Doc-352,apa penyebab tumbuh nya tumor yang di kandung kemih ibu saya dok,Cause
+Doc-352,apa ini karena tumor di dinding rahim yang dulu,Complication
+Doc-352,apakah operasi ini sangat sulit,Management
+Doc-358,apakah itu merupakan penyakit gangguan atau hanya karena kandung kemih yang semakin tertekan akibat janin semakin besar,Diagnosis
+Doc-358,bagaimana cara mengatasinya,Management
+Doc-365,dok hbv dna 6 000 itu termasuk hepatitis b atau c,Diagnosis
+Doc-367,apa artinya ini mohon penjelasan dokter,Diagnosis
+Doc-367,apa yang harus saya lakukan,Management
+Doc-369,sampai sekarang kok belum ada tanda tanda hilang virusnya,Information
+Doc-371,apa boleh saya minum obt an yang lain,Management
+Doc-371,apa pantangan untuk pnyakit saya ini,Information
+Doc-372,apakah masih ada harapan sembuh,Prognosis
+Doc-373,apa upaya untuk memicu serokonversi,Management
+Doc-373,apa benar benar tidak bisa sembuh total,Information
+Doc-373,bahkan dengan medis ataupun herbal,Prognosis
+Doc-374,masuk kategori manakah sirosis yang saya derita,Diagnosis
+Doc-374,apakah bisa disembuhkan dan kembali normal,Prognosis
+Doc-375,itu kenapa ya dok,Diagnosis
+Doc-375,apakah harus dioperasi,Management
+Doc-375,apa telinga saya itu harus dibedah kemudian di jahit lagi seperti operasi bagian tubuh lainnya yang pernah dokter rumah sakit lakukan,Management
+Doc-375,apa memang itu karena kerusakan gendang telinga ataubagaimana,Cause
+Doc-377,apakah benar untuk usia 20 tahun sulit untuk menyembuhkan selaput gendang telinga yang sudah berlubang,Prognosis
+Doc-377,apa yang harus saya lakukan dengan telinga saya karena saya risih dengan keadaan telinga saya yang kotor,Management
+Doc-377,haruskah saya istirahat total untuk menyembuhkan ini,Management
+Doc-377,bagaimana jika telinga berair kan tidak boleh terkena air telinganya,Information
+Doc-378,apakah ini reaksi atau bagaimana dok,Complication
+Doc-378,lalu apa yang sebaiknyaharus saya lakukan,Management
+Doc-380,tetapi kenapa dengungannya tidak hilang ya,Management
+Doc-383,apa yang myebabkan telinga saya berdengung dan kurang mendengar,Cause
+Doc-383,kenapa telinga saya banyak kotorannya yang kering dan susah di hilangin,Cause
+Doc-383,terus bagaimana cara menghilangkannya,Management
+Doc-383,solusi apa yang baik untuk saya,Management
+Doc-384,apalah itu wajar dok,Diagnosis
+Doc-388,apakah berat janin saya normal,Information
+Doc-389,apakah normal dok untuk kandungan usia segitu terima kasih,Information
+Doc-393,apakah normal,Information
+Doc-395,kenapa berat bayi saya segitu,Information
+Doc-395,apakah tidak apa apa kalau saya usg tiap bulan,Information
+Doc-396,kira kira dapat mencapai berat berapa ya dok,Information
+Doc-396,bagaimana dengan berat janin saya nanti ketika lahir,Information
+Doc-396,apakah dengan badan saya yang kecil ini tidak menyebabkan berat badan bayi rendah,Complication
+Doc-396,dapatkah saya melahirkan normal,Information
+Doc-397,mana yang mendekati kebenaran usia kehamilan saya ya dok,Information
+Doc-397,apakah dalam waktu 1 minggu berat janin secepat itu dok,Information
+Doc-397,apakah itu wajar,Information
+Doc-397,apakah masih memungkinkan janin akan pada posisi yang seharusnya,Information
+Doc-398,apakah normal jika berat badan janin saya 700 gr dengan usia kandungan sgtu,Information
+Doc-398,apa benar memang segitu usia kandungan saya,Information
+Doc-399,bagaimana jika bayi besar,Information
+Doc-399,apakah saya harus operasi caesar atau menunggu sampai adanya kontraksi,Management
+Doc-401,bagaimana solusinya,Management
+Doc-401,itu panu atau apa dok,Diagnosis
+Doc-403,kira kira penyakit apa ya,Diagnosis
+Doc-406,ini seperti penyakit apa ya dok terima kasih,Diagnosis
+Doc-408,penyakit apakah itu doc,Diagnosis
+Doc-408,ada obatnya kah,Management
+Doc-409,mengapa ada bintik bintik putih diwajah bayi berusia 2 bulan,Diagnosis
+Doc-410,apakah itu panu atau apa yaa,Diagnosis
+Doc-410,kira kira itu kenapa yaa dok,Diagnosis
+Doc-410,adakah salep atau krim untuk menghilangkan itu,Management
+Doc-411,berbahaya atau tidak,Prognosis
+Doc-411,apa bisa hilang atau akan tetap ada sampai dewasa dok,Prognosis
+Doc-412,apa ya itu dok,Diagnosis
+Doc-412,bagaimana cara menghilangkannya,Management
+Doc-413,tetapi sampai dengan sekarang kok belum hilang juga ya,Information
+Doc-415,kenapa ya dok,Cause
+Doc-415,apakah normal,Information
+Doc-418,tetapi kenapa saya tidak,Information
+Doc-418,apa yang mmbedakan nya itu dok,Information
+Doc-418,apa dari pnganannya pas operasi itu juga brbeda beda,Cause
+Doc-418,apakah saya bisa hamil dengan keadaan perut seperti itu,Information
+Doc-418,apa gara gara itu dok makanya perut saya tidak mnyatu dengan prut asli,Complication
+Doc-419,apakah gatal dan ngilu itu indikasi dari suatu masalah atau wajar saja dok,Diagnosis
+Doc-420,itu penyebabnya apa ya dok,Cause
+Doc-424,bagaimana cara mengatasi darah yang keluar setiap saya merasa sakit,Management
+Doc-424,apakah ada masalah yang berat dalam kasus saya ini,Diagnosis
+Doc-425,gangguan di perut setelah operasi caesar kenapa ya,Complication
+Doc-426,apakah gejala mata minus sebelah kiri minus 7 dan mata sebelah kanan 6 di sertai dengan silinder bisa menyebabkan kebutaan,Complication
+Doc-426,terus efek sampingnya apa saja dok,Complication
+Doc-427,apakah mata silinder bisa sembuh atau malah bertambah,Information
+Doc-427,apakah pemakaian kacamata yang tidak teratur menyebabkan silinder dan minus saya bertambah,Information
+Doc-428,bisakah mata silinder sembuh,Prognosis
+Doc-429,apakah minus dan silinder pada mata bisa sembuh,Prognosis
+Doc-431,apakah dapat disembuhkan total ya dok,Prognosis
+Doc-431,dengan cara medis atau alami,Management
+Doc-431,kalau bisa bagaimana cara menyembuhkannya,Management
+Doc-432,apa itu mata silinder,Information
+Doc-432,apakah mgkin tiba tiba saya menderita silinder atau dulu tidak terdeteksi,Information
+Doc-432,bisakah sembuh,Prognosis
+Doc-433,bisa tidak dok di sembuhkan,Prognosis
+Doc-433,gimana ya dok cara kecilin silinder,Management
+Doc-433,apakah ada obat tetes mata untuk memnyembuhkan silinder,Management
+Doc-434,apakah bisa di sembuhkan dok mohon jawban dan sarannya terima kasih,Prognosis
+Doc-436,penyebab minus silinder apa ya dok,Cause
+Doc-437,saya mau tanya solusi dari dokter,Management
+Doc-437,anjuran obat jika perlu,Management
+Doc-437,penyakit apa yang ada di telapak tangan saya,Diagnosis
+Doc-438,itu kenapa ya dok,Diagnosis
+Doc-439,ini kenapa yah ko tangan saya rasanya gatal sekali sampai sampai ngeluarin bintik bintik merah di telapak tangan saya dan telapak tangan saya juga pada ganti kulit,Diagnosis
+Doc-440,saya terkena penyakit apa ini,Diagnosis
+Doc-441,kenapa ya,Diagnosis
+Doc-442,kira kira itu gejala apa yah dok,Diagnosis
+Doc-443,kenapa di telapak tangan saya juga ikut muncul bintik bintik yang sama seperti pada telapak kaki saya,Cause
+Doc-443,kira kira apa yang menyebabkan munculnya bintik bintik gatal tersebut ya dok,Cause
+Doc-443,bagaimana cara mengatasinya,Management
+Doc-444,kenapa di telapak tangan saya juga ikut muncul,Cause
+Doc-444,atau mungkin karena saya stress,Cause
+Doc-444,kira kira apa penyebab munculnya bintik bintik dan gatal tersebut ya dok,Cause
+Doc-445,ini namanya penyakit apa,Diagnosis
+Doc-445,bagaimana cara mengobatinya,Management
+Doc-445,kira kira ini disebabkan oleh apa,Cause
+Doc-446,ini trmasuk kudis bukan yah,Diagnosis
+Doc-447,kasih tahu apa obat nya ya dok terima kasih dokter baik,Management
+Doc-447,kira kira itu penyakit apa ya dok,Diagnosis
+Doc-449,apakah hd bisa mematikan fungsi ginjal yang tinggal sedikit,Information
+Doc-449,diet makan yang baik gimana ya dok,Management
+Doc-450,bagaimana pengobatan terbaik selain hd,Management
+Doc-450,diet apa yang terbaik untuk mempertahankan kadar ureum kreatinin asam urat dan gula agar tetap di ambang batas normal,Management
+Doc-450,apakah bengkak bengkak tersebut disebabkan oleh rematik ataukah karena keracunan ureum dan kreatinin,Cause
+Doc-456,seberapa penting pemasangan selang itu dok,Management
+Doc-456,apa tidak ada cara lain,Management
+Doc-457,daa tahapan tahapan tertentu,Management
+Doc-457,mengapa bapak saya tidak dianjurkan untuk cuci darah dok,Management
+Doc-458,apa karena kuret hd susah lagi dapat momongan,Information
+Doc-460,apa yang menyebabkan kadar ureum menjadi normal,Information
+Doc-461,apakah ini hal yang wajar,Diagnosis
+Doc-461,apakah kadar kreatinin dapat diturunkan,Information
+Doc-461,bagaimana caranya,Management
+Doc-465,apa bayi usia anak saya tersebut boleh minum susu segar dari sapi murni hasil perahan,Information
+Doc-465,bagaimana cara memasak nya sebelum di berikan pada bayi,Information
+Doc-465,serta bagus mana susu segar dengan susu formula,Information
+Doc-466,mulai umur berapa bayi boleh makan ikan,Information
+Doc-466,apa solusinya agar anak senang minum susu,Information
+Doc-469,apakah aman pemberian teh manis untuk anak seusia anak saya,Information
+Doc-469,sebaiknya saya berikan apa selain susu formula agar masa pertumbuhannya tetap sempurna,Information
+Doc-473,gimana supaya produksi asi banyak lagi,Management
+Doc-473,gimana supaya bayi saya mau dengan asi,Management
+Doc-474,susu formula apa yang cocok untuk anak saya,Information
+Doc-474,apakah ada efek pada bayi bila asupanya kurang,Anatomy
+Doc-475,apakah siklus mentruasi ini nanti akan mempengaruhi kehamilan,Information
+Doc-476,bagaimana tata caranya,Management
+Doc-476,adakah program cara untuk memiliki anak kembar,Information
+Doc-476,makanan apa yang dikonsumsi u kedua calon orangtua selama masa program,Management
+Doc-477,apakah benar begitu dok,Management
+Doc-478,makanan dan minuman apa yang memiliki protein yang tinggi,NotDisease
+Doc-478,apa sih yang menjadi faktor utama yang menyebabkan orang menjadi kurus,NotDisease
+Doc-478,itu benar tidak sih,NotDisease
+Doc-479,apakah masih normal haid selalu mundur,Diagnosis
+Doc-479,apa ini mempengaruhi untuk program bayi saya dok,Information
+Doc-480,bagaimana cara solusi dari dokter untuk mengecilkan perut buncit tetapi tidak mengganggu program kehamilan saya,Management
+Doc-480,bagaimana jadwal pola makan yang baik,Information
+Doc-481,apakah berpengaruh dok bagi wanita yang lagi program hamil,Information
+Doc-482,bagaimana cara menaikkan dan mempercepat metabolisme tubuh dalam program diet,Other
+Doc-482,apakah benar kalau makan banyak tetapi tidak bisa gendut berarti metabolisme tubuh seseorang itu tergolong cepat dan sebaliknya,Other
+Doc-483,untuk mengembalikan kesuburan setelah kb berapa bulan ya dok,Information
+Doc-483,makanan yang harus di hindari untuk program hamil apa saja dok,Information
+Doc-484,itu benar tidak sih,Information
+Doc-484,makanan dan minuman apa yang memiliki protein yang tinggi,Information
+Doc-484,apa sih yang menjadi faktor utama yang menyebabkan orang menjadi kurus,Information
+Doc-485,apakah endometritis tersebut dapat mengganggu program kehamilan,Complication
+Doc-485,saya ingin bertanya apa itu endometritis,Information
+Doc-485,apakah wanita yang pcos dapat hamil setelah induksi,Information
+Doc-488,penyakit apa ini dok hernia ataukah tumor,Diagnosis
+Doc-488,saya harus berobat ke dokter specialist apa,PersonORG
+Doc-489,kira kira anak saya kenapa ya dok,Diagnosis
+Doc-489,apa yang harus saya lakukan agar benjolan benjolan tersebut tidak keluar lagi,Management
+Doc-490,kira kira apakah benjolan tersebut dok,Diagnosis
+Doc-490,langkah apa yang sebaik nya saya lakukan,Management
+Doc-491,kira kira itu apa ya dokter,Diagnosis
+Doc-492,sebaiknya ke dokter spesialis apa,PersonORG
+Doc-492,itu termasuk apa ya dok penyakit kelamin kutil kanker sekedar bekas luka,Diagnosis
+Doc-493,benjolan tersebut bahaya tidak ya dok,Complication
+Doc-494,menurut dokter penanganan yang tepat bagaimana,Management
+Doc-494,kira kira apa itu dok,Diagnosis
+Doc-494,penyakit atau apa,Diagnosis
+Doc-494,jika harus dibawa kedokter sebaiknya dokter spesialis apa dok kulit saraf,PersonORG
+Doc-495,kira kira apa ya dok,Diagnosis
+Doc-496,itu penyebabnya apa,Cause
+Doc-497,kira kira benjolan itu berbahaya tidak dok,Prognosis
+Doc-499,bagaimana ya untuk menambah berat badan,Information
+Doc-499,kira apa ada yang salah dengan bandan saya,Cause
+Doc-500,apakah itu masih normal atau berlebih ya dok,Diagnosis
+Doc-500,berapa kenaikan normal berat badan ibu yang hamil anak petama,Information
+Doc-500,apa yang harus saya lakukan untuk menekan kenaikan berat badan yang begitu besar,Management
+Doc-501,apa solusinya agar berat bada ya ideal,Management
+Doc-501,apakah berat badan anak saya kurang,Diagnosis
+Doc-502,bagaimana cara menambah berat badan,Information
+Doc-503,kenapa berat badan saya tidak pernah naik,Cause
+Doc-504,kenapa berat badan saya tidak bisa naik mohon saran nya dok,Cause
+Doc-504,kenapa berat badan saya 2 bulan ini tidak bisa naik iia,Cause
+Doc-508,kenapa saya sering makan dan istirahat kok berat badan saya tidak pernah naik,Cause
+Doc-509,kenapa ya kok berat badan saya tidak naik,Cause
+Doc-510,apa itu tidak apa apa,Diagnosis
+Doc-510,apa yang saya harus lakukan dok,Management
+Doc-511,buahan apa saja yang tidak boleh dikonsumsi oleh ibu hamil,Information
+Doc-511,mengapa tidak boleh mengkonsumsi buah tersebut,Information
+Doc-511,pada usia kandungan berapa berat badan saya akan meningkat,Information
+Doc-511,apakah berat badan saya cukup saat hamil,Information
+Doc-512,apakah tahi lalat itu bisa menjadi tumor,Information
+Doc-513,apakah ini pengaruh dari obat,Complication
+Doc-513,pigmen saya rusak atau mungkinkah kanker,Cause
+Doc-513,mengapa bisa seperti itu,Cause
+Doc-513,bagaimana solusinya,Management
+Doc-514,sekarang kenapa tiba tiba ada beberapa menjadi besar,Cause
+Doc-514,masalah apa yang saya alami,Diagnosis
+Doc-516,kira kira ada efek sampingnya tidak yah selain kemerahan diwajah,Complication
+Doc-516,apakah berbahaya,Complication
+Doc-517,apa itu termasuk tahi lalat dok,Diagnosis
+Doc-517,bagaimana cara menghilangkannya dok,Management
+Doc-518,apakah ini gejala sesuatu dok,Diagnosis
+Doc-519,minta saran obat untuk menghilangkan tahi lalat saya ini,Management
+Doc-519,kira kira bagian yang menojol masih tahi lalat atau apa ya dok,Diagnosis
+Doc-520,apakah tahi lalat dapat dihilangkan dalam dunia kedokteran,Prognosis
+Doc-520,adakah cara yang aman untuk menghilangkan tahi lalat tersebut,Management
+Doc-524,apakah bisa hilang,Prognosis
+Doc-524,dan apa risikonya,Complication
+Doc-524,biayanya kira kira berapa ya dok,Other
+Doc-525,apakah nyeri perut yang saya alami merupakan gejaja awal usus buntu atau tidak,Diagnosis
+Doc-526,apakah gejala yang saya sebutkan berbahaya,Complication
+Doc-527,itu kenapa ya dok,Diagnosis
+Doc-528,apakah gejala yang saya sebutkan berbahaya,Complication
+Doc-529,kenapa ya dok kadang perut bagian kanan saya nyeri sangat terus tiba tiba reda sendiri kdang juga pindah ke perut kiri tahu tidak dada kanan kiri,Manifestation
+Doc-530,kanker prostat atau usus buntu atau yang lain,Diagnosis
+Doc-530,itu kenapa dok,Diagnosis
+Doc-532,itu kenapa ya dok,Diagnosis
+Doc-533,apakah usus dapat menyembuhkannya sendiri,Information
+Doc-533,apa yang harus saya lakukan,Management
+Doc-533,apakah ada sakit usus yang terbelit atau bagaimana,Diagnosis
+Doc-533,solusinya bagaimana,Management
+Doc-533,hanya ada kuman di dalam usus saya dok,Information
+Doc-535,apakah saya terkena gejala usus buntu,Manifestation
+Doc-536,sakit apa ya dok,Diagnosis
+Doc-538,anak yang alergi susu sapi an harus minum susu soya atau susu kedelai,Information
+Doc-538,jika anak saya laki laki boleh tidak minum susu kedelai,Information
+Doc-539,baik tidak dok minum susu soya protein kedelai,Information
+Doc-541,sudah itu apa solusinya,Management
+Doc-541,apakah boleh minum susu kedelai dicampur susu formula 1 susu kedelai 2 susu formula,Information
+Doc-541,apa itu benar,Other
+Doc-542,boleh tidak usia 1 tahun dikasih susu uht berapa kali sehari untuk yang alergi susu sapi,Management
+Doc-542,cara minumnya sebaiknya dimix apa diselang seling ya dok,Information
+Doc-542,cara nya gimana,Information
+Doc-542,apa betul susu uht lebih baik dari susu bubuk,Information
+Doc-545,apakah itu berbahaya,Other
+Doc-547,apakah alergi itu akan berlangsung seumur hidup,Prognosis
+Doc-547,sampai umur brpkah alergi anak saya terhadap susu sapi berhenti dan bisa minum susu sapi lagi selain itu dia juga alergi sama makanan laut dan telur,Information
+Doc-547,apakah ada cara untuk menyembuhkan alerginya,Management
+Doc-548,kalau ada pelengketan pada indung telur biasanya karena infeksi apa,Cause
+Doc-549,sebenarnya saya sakit apa dok,Diagnosis
+Doc-550,yang mana yang benar permasalahannya di indung telur atau otot rahim,Cause
+Doc-551,bagaimana ya dok untuk mengoptimalkan ukuran sel telur kiri saya,Management
+Doc-551,ada kah jalan lain untuk mengoptimalkan sel telur kanan walaupun tanpa salurannya,Management
+Doc-552,apakah itu normal dok,Diagnosis
+Doc-553,apa yang harus saya lalukan,Management
+Doc-553,berbahayakah dok,Prognosis
+Doc-553,apakah haid saya yang belum datang saat ini salah satu tanda kalau saya hamil lagi,Manifestation
+Doc-553,ataukah ada hubungannya dengan kista dan pengangkatan salah satu indung telur saya ataukah ada faktor menyusui,Cause
+Doc-554,bagaimana kemungkinan saya untuk bisa hamil mengingat tuba falopi kiri saya patent,Prognosis
+Doc-554,apakah ada cara lain untuk mematikan pertumbuhan polip selain dengan suntik gnrh,Management
+Doc-554,apakah suntik gnrh bisa untuk mencegah polip dan mioma untuk tumbuh lagi,Prognosis
+Doc-554,obat atau makanan apa yang bisa membuat indung telur folikel dan bagus dibuahi,Management
+Doc-554,apakah factor pikiran stress bisa mengakibatkan saya sulit hamil dan membuat polip or mioma tumbuh lagi,Susceptibility
+Doc-554,apakah ini termasuk folikel,Diagnosis
+Doc-554,obat obatan makanan or proses apa yang bisa dilakukan agar indung telur bisa folikel,Management
+Doc-554,apakah setiap bulan indung telur yang folikel hanya salah satu saja atau bisa dua dua nya,Information
+Doc-554,adakah cara lain yang bisa dokter sarankan,Management
+Doc-554,apakah ini karena proses ovulasi or karena faktor lain,Cause
+Doc-554,apakah hasil analisis sperma suami jika dilakukan pengulangan kemungkinan hasilnya tetap sama,Information
+Doc-554,apakah ini juga salah satu pengaruh saya sulit hamill,Cause
+Doc-554,apakah faktor kecapaian suami bisa mempengaruhi kualitas sperma saat hubungan diwaktu subur,Cause
+Doc-554,apakah cara ini sudah tepat,Management
+Doc-555,penyebabkan apa,Cause
+Doc-555,kondisi yang saya alami ini sebenarnya apa,Diagnosis
+Doc-555,apa fungsi dari asthin forte,Information
+Doc-556,berbahayakah dok,Complication
+Doc-556,apa yang harus saya lalukan,Management
+Doc-557,apakah kalau kedua indung telur tlah diangkat masih bisa mendapatkan menstruasi lagi dok,Information
+Doc-558,apakah saya normal,Diagnosis
+Doc-558,apa yang harus saya lakukan agar menstruasi saya lancar,Management
+Doc-558,apakah benar dok,Information
+Doc-559,apakah ini juga tanda kanker rahim dok,Diagnosis
+Doc-559,langkah apa yang harus saya lakukan,Management
+Doc-563,hal apa sih yang menyebabkan seseorang terserang panic attack,Cause
+Doc-563,panic attack itu masalahnya di saraf hormon atau otak,Cause
+Doc-563,bisakah penderitanya sembuh tanpa obat penenang,Prognosis
+Doc-563,hal apa yang harus dilakukan jika panic attack sedang terjadi,Management
+Doc-564,sampai kapan saya harus minum obat terus,Management
+Doc-564,adakah efek samping dari obat yang saya minum,Management
+Doc-564,apakah penyakit panic disorder ini bisa sembuh,Prognosis
+Doc-565,kenapa y dok,Cause
+Doc-566,apakah yang saya alami itu psikosomatis atau panic attack,Diagnosis
+Doc-567,diagnosa,Diagnosis
+Doc-567,penanganan,Management
+Doc-567,obat asam lambung,Management
+Doc-568,apakah solusi dokter,Management
+Doc-568,apakah penyakit tersebut bisa disembuhkan,Prognosis
+Doc-569,apakah bisa kemungkinan sakit jantung karena sering gal enak didada dan tidak bisa berpikir berat,Manifestation
+Doc-569,apakah saya hipertensi ya dok,Diagnosis
+Doc-569,apakah kalau penyakit jantung itu detak jantung cepat dok,Manifestation
+Doc-570,apa ada efek samping untuk kesehatan bagi bayinya,Complication
+Doc-570,apa juga termasuk efek dari dehidrasi karena telat diberi susu,Cause
+Doc-571,apa saya juga terkena panyakit ginjal,Susceptibility
+Doc-571,apakah efek samping mengkonsumsi ptu dalam jangka panjang,Complication
+Doc-572,apakah istri saya mengalami salah satu dari tiga gangguan menstruasi,Diagnosis
+Doc-572,apakah kedua faktor yang saya sebutkan tadi ada hubungannya dengan menstruasi dia yang berkepanjangan,Cause
+Doc-572,apakah ini normal,Diagnosis
+Doc-572,apakah mempengaruhi kehidupan seksual nafsu dan sebagainya,Information
+Doc-573,apakah saya mengalami gangguan tersebut,Diagnosis
+Doc-573,apakah ada solusinya karena saya merasa sangat terganggu dengan hal tersebut,Management
+Doc-576,saya harus gimana,Management
+Doc-576,anak saya kira kira dia kenapa,Diagnosis
+Doc-577,bagaimana ya dok,Information
+Doc-577,apa karena oralnya atau karena apa dok,Cause
+Doc-579,apakah darah tersebut adalah darah dari selaput dara,Information
+Doc-580,bagaimana penanganannya yang benar,Management
+Doc-580,apakah bisa sembuh normal kembali,Prognosis
+Doc-581,apa akibatnya bila tidak melakukan operasi,Prognosis
+Doc-583,cedera kepala yang seperti apa dan bagaimana dok,Information
+Doc-583,bagaimana dok apa termasuk cedera kepala,Diagnosis
+Doc-586,apakah kira kira lutut saya bisa sembuh seperti sediakala hanya dengan terapi atau harus operasi,Prognosis
+Doc-589,tetapi kenapa sampai sekarang rasa sakit itu masih ada ya,Manifestation
+Doc-593,kenapa ya dok,Cause
+Doc-594,itu kenapa dok,Cause
+Doc-595,apa memang cuma radang tenggorokan saja,Diagnosis
+Doc-596,apakah saya terkena ispa,Diagnosis
+Doc-596,apa yang harus saya lakukan,Management
+Doc-597,kira kira saya sakit apa ya dok,Diagnosis
+Doc-597,bagaimana cara mengatasinya,Management
+Doc-598,pertanyaan saya apakah penyakit saya itu dok,Diagnosis
+Doc-598,apakah infeksi telinga,Diagnosis
+Doc-598,atau pembengkakan getah bening karena virus lain,Diagnosis
+Doc-599,apa yang terjadi pada saya ya dok,Diagnosis
+Doc-599,mengapa saya mengalami sakit yang sama dan berulang dalam tempo yang singkat,Cause
+Doc-600,menurut dokter bagaimana,Diagnosis
+Doc-601,apakah itu gejala flu atau penyakit lain,Diagnosis
+Doc-602,apakah benar itu semua dari efek berhenti merokok,Diagnosis
+Doc-602,dan apakah saya diamkan saja atau cek ke dokter,Management
+Doc-603,demam muncul hanya pada siang hari kenapa ya,Cause
+Doc-604,kenapa ya dok,Diagnosis
+Doc-605,kira kira itu kenapa ya,Diagnosis
+Doc-606,apakah saya perlu kembali cek ke rumah sakit lagi dok,Information
+Doc-607,saya sakit apa sebenarnya,Diagnosis
+Doc-608,sakit kepala sebelah kanan perut terasa mual kenapa ya dok,Diagnosis
+Doc-609,itu kenapa ya dok,Diagnosis
+Doc-610,kenapa ya dok,Diagnosis
+Doc-611,apa benar dok,Information
+Doc-611,demamnya di sebabkan oleh apa ya dok,Cause
+Doc-611,apa karena imunisasi atau ada penyebab lain,Cause
+Doc-613,apa nama penyakitnya,Diagnosis
+Doc-613,apa solusinya,Management
+Doc-613,apakah benar,Manifestation
+Doc-614,apakah salah satu gangguan kejiwaan atau yang lain,Diagnosis
+Doc-615,apa nama penyakitnya,Diagnosis
+Doc-615,apakah kebiasaan tersebut akan berbahaya jika dibiarkan terus menerus,Complication
+Doc-616,apakah penyakit saya ini dapat di sembuhkan,Prognosis
+Doc-616,terapi apa yang cocok untuk pengidap seperti saya,Management
+Doc-617,apakah ini mengindikasikan bahwa saya menderita gangguan kejiwaan,Diagnosis
+Doc-617,gangguan kejiawaan apa yang saya alami,Diagnosis
+Doc-617,apa yang harus saya lakukan,Management
+Doc-617,apakah saya menderita gangguan kejiwaan,Diagnosis
+Doc-618,apa saja bagian sensitif dari mata kita,Information
+Doc-618,apakah mengucek mata tindakan yang baik,Information
+Doc-618,adakah dampak bahaya nya,Complication
+Doc-618,faktor apa yang menyebabkan orang mengucek mata,Cause
+Doc-618,apakah ada orang yang sengaja mengucek mata padahal ia tahu bahwa matanya dalam keadaan normal,Information
+Doc-618,apakah mengucek mata dapat mengakibatkan kebutaan,Complication
+Doc-618,bagaimana tata cara mengucek mata dengan benar dan aman,Information
+Doc-619,kira kira apa yang harus di lakukan agar flu batuk n sakit telinga nya bisa sembuh,Management
+Doc-619,apa sakitnya teling dia berkaitan dengan flu dan batuk yang di deritanya,Information
+Doc-622,bagaimana mengatasi sesak nafas dan ketakutan saya ini dok,Management
+Doc-623,apakah penyakit ini bisa menyebabkan gangguan kejiwaan,Diagnosis
+Doc-623,bagaimana saya bisa mnenyembuhkan meredakan gejala tersebut,Management
+Doc-624,apakah ke tempat psikolog dokter jiwa atau dokter neurolog,PersonORG
+Doc-624,siapa sich yang sebaiknya pertama kali ditemui jika terjadi kegawat daruratan yang terjadi bagi pasien gangguan jiwa,PersonORG
+Doc-625,bagaimana cara mengatasi depresi yang saya maupun adik saya alami,Management
+Doc-626,adakah saran untuk mengatasinya dok,Management
+Doc-627,apa ini dapat mengganggu tumbuh kembang saya,Complication
+Doc-627,bagaimana untuk jangka panjangnya,Complication
+Doc-628,bagai mana harus menanganinya,Management
+Doc-628,apakah benar kakak saya menderita depresi,Diagnosis
+Doc-628,apakah dengan gejala itu sudah bisa di sebutkan kalau kakak saya benar benar depresi,Diagnosis
+Doc-628,apa yang harus saya lakukan,Management
+Doc-629,teraphi apa yang harus saya lakukan untuk mengobati depresi,Management
+Doc-630,apakah saya depresi stres atau gangguan kejiwaan lainnya,Diagnosis
+Doc-631,bagaimana saya harus menanganinya,Management
+Doc-631,apakah benar menunjukan gejala depresi,Manifestation
+Doc-631,apakah benar dia depresi,Diagnosis
+Doc-631,dan apa yang harus saya lakukan,Management
+Doc-633,apakah saya memderita depresi,Diagnosis
+Doc-633,adakah maag bisa membuat sesak nafas,Complication
+Doc-634,apakah itu semua gejala depresi,Manifestation
+Doc-636,bagaimana cara mengatasi nya ya dok,Management
+Doc-637,bisakah diperbaiki,Prognosis
+Doc-637,apakah tulang yang sudah menyambung tetapi bengkok tersebut akah dipatahkan lagi,Information
+Doc-637,apakah ada bahayanya selain dari segi keindahan tubuh,OtherEffect
+Doc-638,bagaimana cara mengatasi nya supaya bisa lurus kembali dan pembengkakan nya hilang,Management
+Doc-639,apakah patah tulang yang seperti itu hanya bisa disembuhkan dengan jalan operasi penggantian bonggol tulang,Management
+Doc-639,adakah kemungkinan rasa sakit itu bisa hilang dan ibu saya dapat berjalan lagi tanpa tongkat,Prognosis
+Doc-639,apakah kemungkinan terburuk yang dapat terjadi apabila tidak dilakukan tindakan operasi,Complication
+Doc-640,sebaiknya dioperasi lagi ganti pen apa nungggu biar tulang nyambung dulu,Management
+Doc-641,apakah aman untuk menyambung gigi yang patah biar terlihat rapi,Management
+Doc-641,bagaimana kalau dikerjakan oleh ahli tukang gigi yang ada di sekitar kita,Management
+Doc-642,apakah bisa hidung saya normal lagi,Prognosis
+Doc-642,apakah pipi saya yang melebam ini bisa seperti semula,Prognosis
+Doc-642,apakah tulang hidung bisa saya tumbuh lagi,Information
+Doc-643,obat apa agar saya dapat cepat berjalan normal kembali,Management
+Doc-644,solusinya biar cepat penyembuhannya bagaimana,Management
+Doc-645,apa dampak dari terputusnya otot ligamen pada lutut jika tidak di lakukan tindakan operasi,Complication
+Doc-645,apakah dengan latihan tertentu maka otot ligamen dapat kembali normal,Prognosis
+Doc-645,berapa lama proses penyembuhan pada tulang betis yang patah setelah operasi pemasangan pen,Prognosis
+Doc-645,apakah mengkonsumsi ikan gabus dapat mempercepat proses penyembuhan,Management
+Doc-646,apakah bisa disambung dengan yang aslinya,Management
+Doc-646,kalau di palangka raya sendiri dokter gigi alamatnya di mana ya,PersonORG
+Doc-647,apa merokok juga menghambat proses penyembuhan,Information
+Doc-647,kiranya berapa lama saya bisa berjalan normal kmbali,Prognosis
+Doc-648,kira kira karena apa ya dok,Cause
+Doc-648,pakah berbahaya jika ada flek darah kecoklatan muncul saat kehamilan minggu minggu awal dan flek tersebut keluar setiap hari,Complication
+Doc-649,apa bedanya darah awal kehamilan dengan darah haid dan kapan terjadinya,Information
+Doc-649,apakah darah awal kehamilan datang bersamaan di periode haid,Information
+Doc-649,apakah itu darah awal kehamilan atau haid ya dok,Information
+Doc-652,apakah itu bisa jadi tanda kehamilan,Manifestation
+Doc-653,apakah saya bisa dikatakan tidak subur dan tidak bisa memiliki anak,Diagnosis
+Doc-654,apakah umumnya semua ibu hamil mengalami bercak darah atau hanya sebagian saja dok,Information
+Doc-656,apakah saya masih bisa meyakinkan hamil atau tidak dengan tes darah beta hcg,Diagnosis
+Doc-656,sebaiknya saya tunggu sampai flek berakhir,Diagnosis
+Doc-656,apakah efektif hasilnya jika pengecekan darah dilakukan ketika hari saya datang flek,Diagnosis
+Doc-657,bagaimana cara membedakan darah haid dan flek tanda kehamilan,Information
+Doc-657,apakah dari warna darah volume darah yang keluar atau apa dok,Information
+Doc-658,sebaiknya dibolehkan atau tidak untuk berhubungan intim,Information
+Doc-658,apakah janin kami masih baik baik saja dok,Diagnosis
+Doc-658,berbahaya atau tidak,Complication
+Doc-659,apakah darah yang keluar tersebut darah men struasi atau darah sisa nifas dok,Information
+Doc-660,ada solusinya dok,Management
+Doc-660,kok setelah memakai behel gigi cepat kuning padahal rutin sikat gigi,Information
+Doc-661,apakah karena air itu gigi saya jadi kuning,Information
+Doc-662,apakah itu penyebabnya,Cause
+Doc-662,apakah karena gosok gigi yang terlalu lama,Cause
+Doc-662,tetapi setelah lebih dari seminggu kenapa gigi saya kembali seperti awal ya,Cause
+Doc-663,apa yang mempengaruhinya dok,Cause
+Doc-663,apakah bisa berwarna putih seperti gigi normal dok,Information
+Doc-665,kenapa warna gigi saya tidak bisa putih bahkan cenderung kuning padahal sudah sikat gigi,Information
+Doc-666,apakah pengaruh kandungan air itu dengan warna gigi,Cause
+Doc-668,apakah ada obat tuk memutihkan gigi dari kecil jarang gosok gigi dok,Management
+Doc-668,bagaimana solusi untuk gigi saya dok,Management
+Doc-672,berapa taksiran harga,Other
+Doc-672,langkah apa yang saya lakuka,Management
+Doc-672,bagaimana cara menghilangkan warna kuning pada gigi akibat pil kb yang diminum oleh ibu kita,Management
+Doc-673,apakah kondisi itu masih dapat menular ke anak lain,Susceptibility
+Doc-673,apa anak saya boleh dimasukkan sekolah,Information
+Doc-674,dokter apakah tulang yang besar dapat mempengaruhi bertambahnya berat badan,Information
+Doc-75,apakah pengaruh ke anak saya nantinya,Susceptibility
+Doc-75,apakah itu efek dari obat tersebut,Complication
+Doc-75,apa dampak buruknya untuk anak saya,Complication
+Doc-75,dan bagaimana mengatasinya,Management
+,,
+,,
+,,
+,,
+,,
